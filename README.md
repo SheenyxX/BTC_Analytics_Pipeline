@@ -83,7 +83,7 @@ The project implements a weekly automated data pipeline:
     * The data stored in BigQuery is connected to Microsoft Power BI.
     * Power BI is used to create the interactive dashboards showcasing the BTC Price & Metrics, BTC Investment Report, Cryptocurrency Market 24h Volume, and Cryptocurrency Market Cap Visualization.
 
-## Setup and Usage (Conceptual - Adapt as needed for your sharing intentions)
+## Setup and Usage 
 
 While this project is currently designed for automated weekly updates, the following outlines the conceptual setup:
 
@@ -93,9 +93,9 @@ While this project is currently designed for automated weekly updates, the follo
 4.  **Python Environment:** Ensure you have Python 3.x installed along with the necessary libraries (`requests`, `pandas`, `ccxt`, `google-cloud-bigquery`, `google-auth`). You can install the requirements using `pip install requests pandas ccxt google-cloud-bigquery google-auth`.
 5.  **Power BI Desktop:** Microsoft Power BI Desktop is required to connect to the BigQuery data source and view the dashboards.
 
-**(Note:** If you are not intending for others to run this exact pipeline, you can adjust this section to describe the conceptual process or omit specific setup instructions.)
 
-## Further Development (Optional)
+
+## Further Development
 
 Potential future enhancements could include:
 
