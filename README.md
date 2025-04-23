@@ -1,6 +1,5 @@
 # BTC Analytics Pipeline
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-GoogleCloud-blue.svg)](https://cloud.google.com/bigquery)
 [![Power BI](https://img.shields.io/badge/Power_BI-Microsoft-blue.svg)](https://powerbi.microsoft.com/)
@@ -25,7 +24,7 @@ The Power BI dashboards provide the following key insights:
 * **Market Capitalization:** Current market cap of Bitcoin.
 * **BTC Dominance (%):** Bitcoin's share of the total cryptocurrency market capitalization.
 
-![BTC Price & Metrics Dashboard Screenshot](images/btc_price_metrics.png)
+![BTC Price & Metrics Dashboard Screenshot](https://github.com/SheenyxX/BTC_Analytics_Pipeline/blob/main/BTC%20D%201.png)
 
 **2. BTC Investment Report:**
 
@@ -38,20 +37,20 @@ The Power BI dashboards provide the following key insights:
     * **Profit:** The difference between the current investment value and the cost of investment.
     * **Return on Investment (ROI):** The percentage return on the initial investment.
 
-![BTC Investment Report Dashboard Screenshot](images/btc_investment_report.png)
+![BTC Investment Report Dashboard Screenshot](https://github.com/SheenyxX/BTC_Analytics_Pipeline/blob/main/BTC%20D%202.png)
 
 **3. Cryptocurrency Market 24h Volume:**
 
 * **Top Volume Cryptocurrencies:** A bar chart highlighting the 24-hour trading volume of major cryptocurrencies (e.g., USDT, BTC, ETH, USDC).
 * **Other Cryptocurrencies Volume:** A separate bar chart showing the 24-hour trading volume of the remaining cryptocurrencies in the dataset, providing a broader market context.
 
-![Cryptocurrency Market 24h Volume Dashboard Screenshot](images/market_volume.png)
+![Cryptocurrency Market 24h Volume Dashboard Screenshot](https://github.com/SheenyxX/BTC_Analytics_Pipeline/blob/main/BTC%20D%203.png)
 
 **4. Cryptocurrency Market Cap Visualization:**
 
 * **Market Cap Squares:** A visual representation of the cryptocurrency market capitalization, where the size of each square corresponds to the market cap of a specific cryptocurrency. This provides an intuitive understanding of market dominance, with Bitcoin's dominance being visually prominent.
 
-![Cryptocurrency Market Cap Visualization Dashboard Screenshot](images/market_cap_visualization.png)
+![Cryptocurrency Market Cap Visualization Dashboard Screenshot](https://github.com/SheenyxX/BTC_Analytics_Pipeline/blob/main/BTC%20D%204.png)
 
 ## Technologies Used
 
