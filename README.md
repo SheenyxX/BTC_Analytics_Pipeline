@@ -106,26 +106,4 @@ Potential future enhancements could include:
 * Integrating data from additional cryptocurrency exchanges or data providers.
 * Developing a more dynamic and user-configurable dashboard in Power BI.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-[Your Name/GitHub Profile Link]
-[Your Email Address (Optional)]
-
----
-
-**To use these placeholders:**
-
-1.  **Take Screenshots:** Capture clear screenshots of each of your Power BI dashboards.
-2.  **Organize Images:** Create a folder named `images` in the root directory of your GitHub repository.
-3.  **Save Screenshots:** Save each screenshot within the `images` folder with the corresponding filenames used in the README:
-    * `btc_price_metrics.png`
-    * `btc_investment_report.png`
-    * `market_volume.png`
-    * `market_cap_visualization.png`
-4.  **Commit and Push:** Commit the `README.md` file and the `images` folder to your GitHub repository.
-
-GitHub will automatically render these image links, displaying your dashboard screenshots directly within your README, making your project presentation much more impactful!
