@@ -37,7 +37,7 @@ The Power BI dashboards provide the following key insights:
   * Automated daily refresh ensures all metrics are based on the latest available end-of-day data.
   * Designed for a responsive viewing experience across various devices.
 
-[*(Optional: Add your dashboard screenshots here)*](https://app.powerbi.com/view?r=eyJrIjoiNDNiZmNjNTYtMGViNy00ZGUzLWE4MTAtNTM5ZDU4NDc2OGE0IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9)
+[*(Open the Dashboard)*](https://app.powerbi.com/view?r=eyJrIjoiNDNiZmNjNTYtMGViNy00ZGUzLWE4MTAtNTM5ZDU4NDc2OGE0IiwidCI6IjY5NjFiY2ZkLTU3ODUtNDMyYy05YTNmLTY5YzllMjM5NWNjOSIsImMiOjR9)
 
 ## Technologies Used
 
