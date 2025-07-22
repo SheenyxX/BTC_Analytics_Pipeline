@@ -1,7 +1,3 @@
-Here is the complete, updated version of your GitHub README file, incorporating all the details and corrections we've discussed:
-
------
-
 # Bitcoin Portfolio Tracker & Analytics
 
 [](https://www.python.org/)
